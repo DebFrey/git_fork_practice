@@ -5,4 +5,6 @@ Ted Smith, Student
 =======
 Deb Frey, Student
 Ted Smith, Student
->>>>>>> AddedDeb Frey to the file
+AddedDeb Frey to the file
+Dazed and confused
+
